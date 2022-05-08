@@ -2117,7 +2117,7 @@ input, select, textarea {
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			background: #313a3d;
-			color: #ffffff;
+			color: #dddddd;
 			content: '\f00c';
 		}
 
@@ -2660,7 +2660,7 @@ input, select, textarea {
 			background-color: #1d1419;
 			border: 0;
 			box-shadow: none;
-			color: #ffffff !important;
+			color: #dddddd !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2809,7 +2809,7 @@ input, select, textarea {
 		}
 
 			#header header h1, #header header h2, #header header h3, #header header h4, #header header h5, #header header h6, #header header strong, #header header b {
-				color: #ffffff;
+				color: #dddddd;
 			}
 
 			#header header a {
@@ -2817,7 +2817,7 @@ input, select, textarea {
 			}
 
 				#header header a:hover {
-					color: #ffffff !important;
+					color: #dddddd !important;
 				}
 
 			#header header h1 {
@@ -2831,7 +2831,7 @@ input, select, textarea {
 				}
 
 			#header header p {
-				color: #ffffff;
+				color: #dddddd;
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
 			}
@@ -2878,7 +2878,7 @@ input, select, textarea {
 		}
 
 			#footer footer h1, #footer footer h2, #footer footer h3, #footer footer h4, #footer footer h5, #footer footer h6, #footer footer strong, #footer footer b {
-				color: #ffffff;
+				color: #dddddd;
 			}
 
 			#footer footer a {
@@ -2886,7 +2886,7 @@ input, select, textarea {
 			}
 
 				#footer footer a:hover {
-					color: #ffffff !important;
+					color: #dddddd !important;
 				}
 
 			#footer footer .copyright {
